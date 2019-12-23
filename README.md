@@ -2,7 +2,8 @@
 Final report for the Business Analytics programme - MSc Business Analytics
 
 This project was the final submission for the MSc Business Analytics programme, the only requirement was that the main report topic would cover the possibilities of implementing machine learning in some industry. The focus in this report was machine learning implementation in the construction industry along with some proof of concept work for time estimation using taxi data. 
-The report could not be included here because of classified information surrounding some of the data used for the project.
+
+The report could not be included here because of classified data used for the project.
 
 Majority of the code is written in Jupyter notebooks because of the convenience for project submission.
 
